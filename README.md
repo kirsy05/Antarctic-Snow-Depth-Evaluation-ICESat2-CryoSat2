@@ -1,6 +1,6 @@
 # Antarctic-Snow-Depth-Evaluation-ICESat2-CryoSat2
 
-MSc Thesis in Ocean and Climate Physics \\
+**MSc Thesis in Ocean and Climate Physics** <br>
 **Author:** Kirsten Schulze
 
 ## Titel: Evaluation of Snow Depth Retrievals from Differences in ICESat-2 and CryoSat-2 Freeboards Using In-Situ Measurements in the Weddell Sea

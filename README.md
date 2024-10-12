@@ -9,8 +9,8 @@
 
 
 ### Data:
-1. **KaKo20 Snow Depth Product:** Sahra Kacimi. Daily Composites of Antarctic Ocean Sea Ice Snow Depth Derived from ICESat-2 and CryoSat-2 Freeboards. Jet Propulsion Laboratory - NASA, Personal Communication, 2024. Received: 21/05/2024. (Data was provided on the NSIDC polar stereographic grid, with a 25km x 25km resolution.)
-2. **Snow Depth derived from Snow Buoys:** Stefanie Arndt. Data from Snow Buoys Drifting through the Weddell Sea with Corrected Snow Depth by a Simple 1-D Thermodynamic Model. Alfred-Wegener-Institut, Personal Communication, 2023. Received: 05/12/2023.
-3. **Multiyear Ice Concentration**: Melsheimer, Christian; Spreen, Gunnar; Ye, Yufang; Shokr, Mohammed (2019): Multiyear Ice Concentration, Antarctic, 12.5 km grid, cold seasons 2013-2018 (from satellite). PANGAEA, https://doi.org/10.1594/PANGAEA.909054
-4. **Sea Ice Concentration**: ASI Algorithm AMSR-E sea ice concentration were obtained for 2019, 2021 and 2022 from the Integrated Climate Data Center (ICDC, CEN, University of Hamburg, Germany).
-5. **Snow Depth corrected by SNOWPACK:** Nina Maaß. Snow Depths Corrected with the SNOWPACK Model. Alfred-Wegener-Institut, personal communication 2024. Received: 01/08/2024.
+1. **KaKo20 Snow Depth Product:** Sahra Kacimi. Daily Composites of Antarctic Ocean Sea Ice Snow Depth Derived from ICESat-2 and CryoSat-2 Freeboards. Jet Propulsion Laboratory - NASA, personal communication, 2024. Received: 21 May 2024. (Data provided on the NSIDC polar stereographic grid, with 25 km x 25 km resolution.)
+2. **Snow Depth Derived from Snow Buoys:** Stefanie Arndt. Data from Snow Buoys Drifting through the Weddell Sea with Corrected Snow Depth by a Simple 1-D Thermodynamic Model. Alfred-Wegener-Institut, personal communication, 2023. Received: 5 December 2023.
+3. **Multiyear Ice Concentration:** Melsheimer, Christian; Spreen, Gunnar; Ye, Yufang; Shokr, Mohammed (2019). Multiyear Ice Concentration, Antarctic, 12.5 km Grid, Cold Seasons 2013-2018 (from Satellite). PANGAEA. Accessed: 7 July 2024. https://doi.org/10.1594/PANGAEA.909054 
+4. **Sea Ice Concentration:** ASI Algorithm AMSR-E Sea Ice Concentration for 2019, 2021, and 2022 obtained from the Integrated Climate Data Center (ICDC, CEN, University of Hamburg, Germany). Accessed: 10 July 2024.
+5. **Snow Depth Corrected by SNOWPACK:** Nina Maaß. Snow Depths Corrected with the SNOWPACK Model. Alfred-Wegener-Institut, personal communication, 2024. Received: 1 August 2024.
